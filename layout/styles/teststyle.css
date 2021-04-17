@@ -500,7 +500,7 @@ table a, #comments a{background-color:inherit;}
 }
 
 
-card {
+.card {
   padding: 50px;
   transition: transform .2s;
   width: 200px;
@@ -508,7 +508,7 @@ card {
   margin: 0 auto;
 }
 
-card:hover {
+.card:hover {
   -ms-transform: scale(1.1); /* IE 9 */
   -webkit-transform: scale(1.1); /* Safari 3-8 */
   transform: scale(1.1); 
