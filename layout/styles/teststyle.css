@@ -501,11 +501,9 @@ table a, #comments a{background-color:inherit;}
 
 
 .card {
-  padding: 50px;
+
   transition: transform .2s;
-  width: 200px;
-  height: 200px;
-  margin: 0 auto;
+
 }
 
 .card:hover {
